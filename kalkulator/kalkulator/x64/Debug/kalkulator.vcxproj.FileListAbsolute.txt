@@ -1,0 +1,3 @@
+C:\Users\Programista\Desktop\blehh\24.04.23\kalkulator\kalkulator\x64\Debug\kalkulator.vcxproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\blehh\24.04.23\kalkulator\kalkulator\x64\Debug\kalkulator.MyForm.resources
+C:\Users\Programista\Desktop\blehh\24.04.23\kalkulator\kalkulator\x64\Debug\kalkulator.vcxproj.GenerateResource.cache
